@@ -11,4 +11,4 @@ Este proyecto es un clon de la página de inicio de Google.
 
 ## Demo del proyecto
 
-<https://codejoss.github.io/clone-google>
+[Demo: Clone de Google]("https://codejoss.github.io/clone-google/")
