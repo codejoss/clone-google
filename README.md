@@ -1,14 +1,14 @@
 # Google Clone
 
-## Project Description
+## Descripción del proyecto
 
 Este proyecto es un clon de la página de inicio de Google.
 
-## Project Requirements
+## Requerimientos dle proyecto
 
 - HTML
 - CSS
 
-## Project Demo
+## Demo del proyecto
 
 <https://codejoss.github.io/clone-google>
